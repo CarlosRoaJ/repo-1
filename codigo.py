@@ -1,4 +1,4 @@
-nonbre="carlos alejandro"
+nonbre="charles alejandro"
 apellido="roa"
 
 saludo="hola "+ nonbre +" "+ apellido + " como estas?"
